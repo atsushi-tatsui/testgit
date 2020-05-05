@@ -9,7 +9,7 @@ public class Hello {
 private static final class French {
         @Override
         public String toString() {
-            String french = "Bonjour le monde!";
+            String french = "Hello Git Hub!!";
             return french;
         }
     }
